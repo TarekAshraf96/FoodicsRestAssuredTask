@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-19T21:37:59 EET" name="Default suite" finished-at="2023-11-19T21:38:01 EET" duration-ms="1648">
+    <groups>
+    </groups>
+    <test started-at="2023-11-19T21:37:59 EET" name="Default test" finished-at="2023-11-19T21:38:01 EET" duration-ms="1648">
+      <class name="tests.TestLogin">
+        <test-method signature="invalidPasswordLogin()[pri:0, instance:tests.TestLogin@384ad17b]" started-at="2023-11-19T21:37:59 EET" name="invalidPasswordLogin" finished-at="2023-11-19T21:38:01 EET" duration-ms="1617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidPasswordLogin -->
+      </class> <!-- tests.TestLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
